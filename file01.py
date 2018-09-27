@@ -21,3 +21,7 @@ z = input("enter the string \n")
 a = Permutations(z)
 b = isPalindrome(a)
 print(set(b))
+
+n = 10
+m = 15
+print(n+m)
